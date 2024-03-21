@@ -3,7 +3,7 @@ The ultimate settings for NextDNS.
 
 ## Security
 1. Threat Intelligence Feeds = Enabled
-2. AI-Driven Threat Detection = Disabled
+2. AI-Driven Threat Detection = Enabled
 3. Google Safe Browsing = Enabled (if you are a degoogled user you can still use this.)
 4. Cryptojacking Protection = Enabled
 5. DNS Rebinding Protection = Enabled
