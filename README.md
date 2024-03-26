@@ -44,7 +44,7 @@ The ultimate settings for NextDNS.
 
 
 ## Allowlist 
-You can visit [This](https://github.com/Hayzox/NextDNS-Guide) repo for allowlist.
+You can visit [This](https://github.com/yokoffing/NextDNS-Config) repo for allowlist.
 
 ## Settings 
 
