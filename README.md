@@ -23,10 +23,7 @@ The ultimate settings for NextDNS.
 2. Goodbye Ads
 3. HaGeZi - Multi ULTIMATE
 4. Steven Black
-5. AdGuard DNS filter
-6. Lightswitch05 - Ads & Tracking
-7. Perflyst's Smart-TV Blocklist (If you have Smart-TV)
-8. WindowsSpyBlocker (If you use Windows)
+5. 1Hosts (Xtra)
 
 - Block Disguised Third-Party Trackers = Enabled
 - Allow Affiliate & Tracking Links = Enabled (Disabling this can cause email verification problems, or some download link problems {like Apkpure}.)
