@@ -21,21 +21,21 @@ The ultimate settings for NextDNS.
 
 1. OISD
 2. Goodbye Ads
-3. notracking
-4. HaGeZi - Multi ULTIMATE
-5. NextDNS Ads & Trackers Blocklist
-6. Steven Black
-7. AdGuard DNS filter
-8. Lightswitch05 - Ads & Tracking
-9. Perflyst's Smart-TV Blocklist (If you have Smart-TV)
-10. WindowsSpyBlocker (If you use Windows)
+3. HaGeZi - Multi ULTIMATE
+4. Steven Black
+5. AdGuard DNS filter
+6. Lightswitch05 - Ads & Tracking
+7. Perflyst's Smart-TV Blocklist (If you have Smart-TV)
+8. WindowsSpyBlocker (If you use Windows)
 
 - Block Disguised Third-Party Trackers = Enabled
-- Allow Affiliate & Tracking Links = Disabled (You can enable it if you having problems with email verification problem)
+- Allow Affiliate & Tracking Links = Enabled (Disabling this can cause email verification problems, or some download link problems {like Apkpure}.)
 
 
 ## Parental Control 
-Its all upto you. currently i have disabled everything here.
+1. Porn
+2. Gambling
+3. Dating
 
 
 ## Denylist 
@@ -44,8 +44,7 @@ Its all upto you. currently i have disabled everything here.
 
 
 ## Allowlist 
-All upto you.
-
+You can visit [This](https://github.com/Hayzox/NextDNS-Guide) repo for allowlist.
 
 ## Settings 
 
@@ -57,7 +56,7 @@ All upto you.
 - Log domains = Enabled
 
 ##### Retention 
-- 3 months
+- 1 months
 
 ##### Storage Location
 - Switzerland 🇨🇭
