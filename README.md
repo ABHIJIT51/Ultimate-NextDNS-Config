@@ -3,9 +3,9 @@ The ultimate settings for NextDNS.
 
 ## Security
 1. Threat Intelligence Feeds = Enabled
-2. AI-Driven Threat Detection = Enabled
+2. AI-Driven Threat Detection = Disabled
 3. Google Safe Browsing = Enabled (if you are a degoogled user you can still use this.)
-4. Cryptojacking Protection = Enabled
+4. Cryptojacking Protection = Disabled (Filterlists can do the same thing in better way)
 5. DNS Rebinding Protection = Enabled
 6. IDN Homograph Attacks Protection = Enabled
 7. Typosquatting Protection = Enabled
@@ -24,6 +24,7 @@ The ultimate settings for NextDNS.
 3. HaGeZi - Multi ULTIMATE
 4. Steven Black
 5. 1Hosts (Xtra)
+6. AdGuard DNS Filter.
 
 - Block Disguised Third-Party Trackers = Enabled
 - Allow Affiliate & Tracking Links = Enabled (Disabling this can cause email verification problems, or some download link problems {like Apkpure}.)
