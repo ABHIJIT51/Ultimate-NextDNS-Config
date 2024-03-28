@@ -38,10 +38,16 @@ The ultimate settings for NextDNS.
 4. Steven Black
 5. 1Hosts (Xtra)
 6. AdGuard DNS Filter.
+7. NextDNS Ads & Trackers Blocklist
+8. notracking
+9. 1Hosts (Xtra)
+10. Lightswitch05 - Ads & Tracking
+11. Fanboy's Annoyance List
+
 
 
 - Block Disguised Third-Party Trackers = Enabled
-- Allow Affiliate & Tracking Links = Enabled (Disabling this can cause email verification problems, or some download link problems {like Apkpure}.)
+- Allow Affiliate & Tracking Links = Disabled (Disabling this sometimes causes email verification problems, or some download link problems).
 
 
 ## Parental Control 
