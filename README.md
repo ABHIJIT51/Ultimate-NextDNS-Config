@@ -3,9 +3,9 @@ The ultimate settings for NextDNS.
 
 ## Security
 1. Threat Intelligence Feeds = Enabled
-2. AI-Driven Threat Detection = Disabled
-3. Google Safe Browsing = Enabled (if you are a degoogled user you can still use this.)
-4. Cryptojacking Protection = Disabled (Filterlists can do the same thing in better way)
+2. AI-Driven Threat Detection = Enabled
+3. Google Safe Browsing = Enabled
+4. Cryptojacking Protection = Enabled
 5. DNS Rebinding Protection = Enabled
 6. IDN Homograph Attacks Protection = Enabled
 7. Typosquatting Protection = Enabled
@@ -14,6 +14,19 @@ The ultimate settings for NextDNS.
 10. Block Dynamic DNS Hostnames = Enabled
 11. Block Parked Domains = Enabled
 12. Block Child Sexual Abuse Material = Enabled
+
+##### Block Top-Level Domains
+
+.机构
+.fit
+.work
+.surf
+.tokyo
+.asia
+.review
+.cn
+.monster
+.info
 
 
 ## Blocklists 
@@ -25,6 +38,7 @@ The ultimate settings for NextDNS.
 4. Steven Black
 5. 1Hosts (Xtra)
 6. AdGuard DNS Filter.
+
 
 - Block Disguised Third-Party Trackers = Enabled
 - Allow Affiliate & Tracking Links = Enabled (Disabling this can cause email verification problems, or some download link problems {like Apkpure}.)
@@ -61,17 +75,13 @@ You can visit [This](https://github.com/yokoffing/NextDNS-Config) repo for allow
 
 
 #### Block Page 
-Disabled 
+- Disabled 
+
 
 #### Performance 
 - Anonymized EDNS Client Subnet = Enabled
-- Cache Boost = Enabled
+- Cache Boost = Disabled
 - CNAME Flattening = Disabled
 
 #### Web3 (optinal) 
 Enabled 
-
-
-### Credits 
-1. https://github.com/yokoffing/NextDNS-Config
-2. https://github.com/Hayzox/NextDNS-Guide
