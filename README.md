@@ -36,13 +36,8 @@ The ultimate settings for NextDNS.
 2. Goodbye Ads
 3. HaGeZi - Multi ULTIMATE
 4. Steven Black
-5. 1Hosts (Xtra)
-6. AdGuard DNS Filter.
-7. NextDNS Ads & Trackers Blocklist
-8. notracking
-9. 1Hosts (Xtra)
-10. Lightswitch05 - Ads & Tracking
-11. Fanboy's Annoyance List
+5. AdGuard DNS Filter
+6. Fanboy's Annoyance List
 
 
 
