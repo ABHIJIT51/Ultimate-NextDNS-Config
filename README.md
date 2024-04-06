@@ -38,7 +38,11 @@ The ultimate settings for NextDNS.
 4. Steven Black
 5. AdGuard DNS Filter
 6. Fanboy's Annoyance List
+7. NextDNS Ads & Trackers Blocklist
 
+
+## Native Tracking Protection
+- Add all devices you own.
 
 
 - Block Disguised Third-Party Trackers = Enabled
@@ -81,7 +85,7 @@ You can visit [This](https://github.com/yokoffing/NextDNS-Config) repo for allow
 
 #### Performance 
 - Anonymized EDNS Client Subnet = Enabled
-- Cache Boost = Disabled
+- Cache Boost = Enabled
 - CNAME Flattening = Disabled
 
 #### Web3 (optinal) 
