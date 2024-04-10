@@ -3,7 +3,7 @@ The ultimate settings for NextDNS.
 
 ## Security
 1. Threat Intelligence Feeds = Enabled
-2. AI-Driven Threat Detection = Enabled
+2. AI-Driven Threat Detection = Disabled
 3. Google Safe Browsing = Enabled
 4. Cryptojacking Protection = Enabled
 5. DNS Rebinding Protection = Enabled
@@ -39,6 +39,7 @@ The ultimate settings for NextDNS.
 5. AdGuard DNS Filter
 6. Fanboy's Annoyance List
 7. NextDNS Ads & Trackers Blocklist
+8. Lightswitch05 - Ads & Tracking
 
 
 ## Native Tracking Protection
@@ -46,7 +47,7 @@ The ultimate settings for NextDNS.
 
 
 - Block Disguised Third-Party Trackers = Enabled
-- Allow Affiliate & Tracking Links = Disabled (Disabling this sometimes causes email verification problems, or some download link problems).
+- Allow Affiliate & Tracking Links = Enabled (Disabling this sometimes causes email verification problems, or some download link problems).
 
 
 ## Parental Control 
