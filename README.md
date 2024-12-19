@@ -3,7 +3,7 @@ The ultimate settings for NextDNS.
 
 ## Security
 1. Threat Intelligence Feeds = Enabled
-2. AI-Driven Threat Detection = Disabled
+2. AI-Driven Threat Detection = Enabled 
 3. Google Safe Browsing = Enabled
 4. Cryptojacking Protection = Enabled
 5. DNS Rebinding Protection = Enabled
@@ -36,10 +36,8 @@ The ultimate settings for NextDNS.
 2. Goodbye Ads
 3. HaGeZi - Multi ULTIMATE
 4. Steven Black
-5. AdGuard DNS Filter
-6. Fanboy's Annoyance List
-7. NextDNS Ads & Trackers Blocklist
-8. Lightswitch05 - Ads & Tracking
+5. hBlock
+6. NextDNS Ads & Trackers Blocklist
 
 
 ## Native Tracking Protection
@@ -62,12 +60,17 @@ The ultimate settings for NextDNS.
 
 
 ## Allowlist 
-You can visit [This](https://github.com/yokoffing/NextDNS-Config) repo for allowlist.
+1. yt3.ggpht.com 
+2. youtubei.googleapis.com
+3. s.ytimg.com
+4. s.youtube.com
+5. devuploads.com 
+6. revanced.net 
 
 ## Settings 
 
 ##### Logs 
-- Enable Logs = Enabled (you can also disable it if you won't use it) {disabling logs can slightly improve internet speed}
+- Enable Logs = Enabled
 
 ###### Privacy adjustment
 - Log clients IPs = Enabled
@@ -77,7 +80,7 @@ You can visit [This](https://github.com/yokoffing/NextDNS-Config) repo for allow
 - 1 months
 
 ##### Storage Location
-- Switzerland 🇨🇭
+- Switzerland 🇨🇭 (Because of some great privacy laws)
 
 
 #### Block Page 
