@@ -66,6 +66,7 @@ The ultimate settings for NextDNS.
 4. s.youtube.com
 5. devuploads.com 
 6. revanced.net 
+7. api.picsart.com
 
 ## Settings 
 
